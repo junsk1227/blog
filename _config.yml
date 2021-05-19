@@ -1,5 +1,4 @@
 theme: jekyll-theme-hacker
 
-menu:
-  主页: /
-  随笔: /tags
+name: MyHomePage
+description: 我的学习之路
